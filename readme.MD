@@ -11,4 +11,4 @@ To use TopicGen or BERTopicModel, an OPENAI API key is required. Please fill in 
 
 To use your own data place it in `data_in` and modify `Datasets`. Datasets used in the study are provided in `data_in`.
 
-To run, go to RunModels, please keep in mind the cost in terms of API calls can be high depending on docuemnt length and dataset size.
+To run, go to RunModels, *but please keep in mind that the cost in terms of API calls can be high depending on the average document length and dataset size.*
