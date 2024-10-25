@@ -1,0 +1,13 @@
+aiohttp==3.9.3
+arxiv==2.1.3
+bertopic==0.16.1
+feedparser==6.0.11
+nltk==3.8.1
+numpy==1.26.4
+openai==1.13.3
+pandas==2.2.1
+requests==2.32.3
+scikit-learn==1.4.1.post1
+tiktoken==0.6.0
+tqdm==4.66.2
+gensim==4.3.2
